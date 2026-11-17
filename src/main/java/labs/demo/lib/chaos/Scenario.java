@@ -1,4 +1,4 @@
-package labs.demo.chaos;
+package labs.demo.lib.chaos;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.Map;

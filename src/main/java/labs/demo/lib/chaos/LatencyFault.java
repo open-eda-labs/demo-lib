@@ -1,4 +1,4 @@
-package labs.demo.chaos;
+package labs.demo.lib.chaos;
 
 import java.util.Random;
 import java.util.function.ToIntBiFunction;

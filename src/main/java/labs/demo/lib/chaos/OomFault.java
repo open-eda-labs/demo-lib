@@ -1,4 +1,4 @@
-package labs.demo.chaos;
+package labs.demo.lib.chaos;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

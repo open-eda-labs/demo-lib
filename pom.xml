@@ -22,11 +22,11 @@
     </repository>
   </distributionManagement>
 
-  <!-- Curinga da org: o Maven precisa achar o demo-parent (outro repositório) antes de herdar o repositories dele. -->
+  <!-- O Maven precisa achar o demo-parent (outro repositório) antes de herdar o repositories dele. -->
   <repositories>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/open-eda-labs/*</url>
+      <url>https://maven.pkg.github.com/open-eda-labs/demo-parent</url>
     </repository>
   </repositories>
 

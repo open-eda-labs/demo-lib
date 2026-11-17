@@ -1,4 +1,4 @@
-package labs.demo.chaos;
+package labs.demo.lib.chaos;
 
 import static org.junit.jupiter.api.Assertions.assertNotSame;
 import static org.junit.jupiter.api.Assertions.assertSame;

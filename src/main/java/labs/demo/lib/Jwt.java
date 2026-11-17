@@ -1,4 +1,4 @@
-package labs.demo;
+package labs.demo.lib;
 
 import com.nimbusds.jose.JOSEException;
 import com.nimbusds.jose.JWSAlgorithm;

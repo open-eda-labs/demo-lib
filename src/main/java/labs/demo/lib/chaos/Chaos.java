@@ -1,4 +1,4 @@
-package labs.demo.chaos;
+package labs.demo.lib.chaos;
 
 import com.thoughtworks.xstream.XStream;
 import java.util.Map;

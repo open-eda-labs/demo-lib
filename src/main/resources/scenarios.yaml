@@ -1,4 +1,4 @@
-# Cenários de falha (dados sintéticos). kind = classe de labs.demo.chaos que injeta a falha.
+# Cenários de falha (dados sintéticos). kind = classe de labs.demo.lib.chaos que injeta a falha.
 name: latencia-200ms
 kind: LatencyFault
 millis: 200

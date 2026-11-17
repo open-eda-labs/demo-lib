@@ -1,4 +1,4 @@
-package labs.demo;
+package labs.demo.lib;
 
 import com.sun.net.httpserver.HttpServer;
 import java.io.IOException;

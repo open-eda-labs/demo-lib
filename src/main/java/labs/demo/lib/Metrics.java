@@ -1,4 +1,4 @@
-package labs.demo;
+package labs.demo.lib;
 
 import com.google.protobuf.Struct;
 import com.google.protobuf.Value;

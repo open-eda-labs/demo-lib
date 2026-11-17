@@ -1,4 +1,4 @@
-package labs.demo;
+package labs.demo.lib;
 
 import java.io.IOException;
 import org.apache.http.client.config.RequestConfig;
